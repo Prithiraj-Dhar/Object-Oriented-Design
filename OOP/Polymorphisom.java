@@ -15,7 +15,7 @@ class MathOperations {
     }
 }
 
-public class Main {
+public class Polymorphisom {
 
     public static void main(String[] args) {
 
@@ -55,7 +55,7 @@ class Cat extends Animal {
     }
 }
 
-public class Main {
+public class Polymorphisom {
 
     public static void main(String[] args) {
 
